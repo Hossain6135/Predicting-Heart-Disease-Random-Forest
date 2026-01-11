@@ -99,8 +99,6 @@ The model demonstrates strong predictive performance and balances both false pos
 
 ---
 
-## ▶️ How to Run the Project
-
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Hossain6135/Predicting-Heart-Disease-Random-Forest.git
