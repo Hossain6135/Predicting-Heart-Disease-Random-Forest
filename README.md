@@ -17,7 +17,7 @@ This project aims to build a reliable ML model that predicts whether a patient i
 - **Dataset Name:** Cardiovascular Disease Dataset  
 - **Source:** Kaggle  
   https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
-- **Total Records:** 70,000+
+- **Total Records:** 70,000
 - **Target Variable:**  
   - `cardio = 1` → Heart disease present  
   - `cardio = 0` → No heart disease
