@@ -1,4 +1,4 @@
-# ❤️ Predicting Heart Disease Using Random Forest
+# Predicting Heart Disease Using Random Forest
 
 A machine learning project that predicts the presence of cardiovascular disease using patient medical data.  
 The model is built using **Random Forest**, focusing on accuracy, interpretability, and real-world healthcare relevance.
@@ -99,6 +99,3 @@ The model demonstrates strong predictive performance and balances both false pos
 
 ---
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Hossain6135/Predicting-Heart-Disease-Random-Forest.git
